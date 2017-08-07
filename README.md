@@ -1,7 +1,16 @@
 ## Templates
 :relaxed: Quick web front-end
 
-### Some Input
+## Think about
+Web development can be boring with much environments! The web-components concept comes with a price, and the browser manage it, we chose resolve our issues of scope before the page render, on the server!
+
+## Boilerplate taken seriously
+You can't wasting your time doing things that you already did 100000000000 times. 
+Checkout our wiki: https://github.com/objectbody/templates/wiki
+
+Example
+
+#### Some Input
 
 ```html
 <!DOCTYPE html>
@@ -32,7 +41,7 @@
 </html>
 ```
 
-### Some Output
+#### Some Output
 
 ```html
 <!DOCTYPE html>
