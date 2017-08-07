@@ -1,2 +1,2 @@
-# templates
-Quick web front-end
+## Templates
+:relaxed: Quick web front-end
