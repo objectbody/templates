@@ -10,7 +10,7 @@ Checkout our wiki: https://github.com/objectbody/templates/wiki
 
 ### Example
 
-#### Some Input
+#### Input
 
 ```html
 <!DOCTYPE html>
@@ -41,7 +41,7 @@ Checkout our wiki: https://github.com/objectbody/templates/wiki
 </html>
 ```
 
-#### Some Output
+#### Output
 
 ```html
 <!DOCTYPE html>
