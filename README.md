@@ -6,7 +6,7 @@ Web development can be boring with much environments! The web-components concept
 
 ## Boilerplate taken seriously
 You can't wasting your time doing things that you already did 100000000000 times. 
-Checkout our wiki: https://github.com/objectbody/templates/wiki
+Checkout our wiki: https://github.com/objectbody/templates/wiki/Basic-Reference
 
 ### Example
 
